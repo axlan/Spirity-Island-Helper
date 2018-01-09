@@ -1,7 +1,7 @@
 # Spirit Island Board Game Helper
 A Basic Unity App for Tracking the Invader Board in the Spirit Island Board Game. I've developed targetting Android.
 
-![Usage Demo](example.png)
+![Usage Demo](Example.png)
 
 I have no rights to these assets and will try to replace them ASAP.
 
